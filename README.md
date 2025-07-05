@@ -1,0 +1,2 @@
+# Netflix Clone-Homepage
+A simple, static Netflix homepage clone built using HTML and CSS. Designed as a beginner-friendly project to practice layout building, basic styling, and page structuring. All code is completely self-written without using any frameworks or templates.
